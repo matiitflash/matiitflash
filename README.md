@@ -22,18 +22,18 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 * 🎓 Me titulé de **Ingeniería en Informática en Duoc UC (2025)**.
 * 🔭 Actualmente busco oportunidades como desarrollador web y expandir mis conocimientos.
 * 🌱 Me encuentro aprendiendo **Angular** y profundizando en mis bases.
-* 💡 Me interesa explorar más sobre **tecnologías Cloud** y el los diferentes servicios que ofrecen.
-* 💬 Mis grandes intereces son el **desarrollo web (Frontend y Backend)**, maquetación, y flujos de trabajo con **metodologías ágiles (Scrum)**.
+* ☁️ Me interesa explorar más sobre **tecnologías Cloud** y el los diferentes servicios que ofrecen.
+* 🏁 Mis grandes intereces son el **desarrollo web (Frontend y Backend)**, maquetación, y flujos de trabajo con **metodologías ágiles (Scrum)**.
 * 📫 Cómo contactarme: **[matii.espinoza.15@gmail.com](mailto:matii.espinoza.15@gmail.com)**.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 <div align="center">
   
@@ -50,24 +50,11 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Proyectos Destacados
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=matiitflash&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiitflash&layout=compact&theme=radical" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 Proyectos Destacados
-
-| 🚀 Proyecto | 📝 Descripción | 🔗 Enlaces |
+| Proyecto | Descripción | Enlaces |
 | :--- | :--- | :--- |
-| **Sistema de gestión de taller mecánico (Pepsico)** | Proyecto de título (Sept. 2025 – Dic. 2025), seleccionado entre los mejores de la generación. Es un sistema integral de gestión de taller y flotas de vehículos con diversos roles para optimizar los tiempos y el flujo de reparaciones. En este proyecto puse a prueba mis habilidades de desarrollo web, UI/UX, conexión a bases de datos y manejo de APIs. | [Código](Link al repo) / [Demo](Link al demo) |
-| **[Nombre Proyecto 2]** | *[Agrega aquí otro proyecto cuando lo tengas listo, o borra esta fila]* | [Código](Link al repo) / [Demo](Link al demo) |
+| **Sistema de gestión de taller mecánico (Pepsico)** | Proyecto de título (Sept. 2025 – Dic. 2025), seleccionado entre los mejores de la generación. Es un sistema integral de gestión de taller y flotas de vehículos con diversos roles para optimizar los tiempos y el flujo de reparaciones. En este proyecto puse a prueba mis habilidades de desarrollo web, UI/UX, conexión a bases de datos y manejo de APIs. | [Demo](Link al demo) |
 
 <br>
 <div align="center">
