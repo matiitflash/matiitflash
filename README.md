@@ -2,21 +2,21 @@
 
 # ¡Hola! Soy Matías Espinoza 👋
 
-### 👨‍💻 Full Stack Developer - Ingeniero en informática
+### 👨‍💻 Full Stack Developer | Ingeniero en Informática
 
 <p align="center">
   <a href="https://linkedin.com/in/matias-espinoza-barrera-02ab59253" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="mailto:matii.espinoza.15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="[Link a tu Portafolio o web]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-*Bienvenido a mi perfil de GitHub. Me apasiona construir soluciones creativas y aprender nuevas tecnologías.*
+*Bienvenido a mi perfil de GitHub. Me apasiona construir soluciones creativas, el desarrollo web y de aplicaciones móviles.*
 
 </div>
 
@@ -24,13 +24,12 @@
 
 ## 🚀 Sobre mí
 
-* 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto o empresa]**
-* 🌱 Actualmente estoy aprendiendo **[Tecnología o habilidad nueva, ej: React, Python, Docker]**
-* 👯 Busco colaborar en **[Tipo de proyectos, ej: proyectos Open Source de educación]**
-* 💡 Me interesa explorar **[Tus intereses, ej: Inteligencia Artificial, UI/UX, Ciberseguridad]**
-* 💬 Pregúntame sobre **[Tus áreas de dominio, ej: diseño de bases de datos, maquetación web]**
-* 📫 Cómo contactarme: **[Tu email o medio preferido]**
-* ⚡ Dato curioso: **[Algo divertido sobre ti, ej: Mi código funciona mejor después de 2 tazas de café ☕]**
+* 🎓 Me titulé de **Ingeniería en Informática en Duoc UC (2025)**.
+* 🔭 Actualmente busco oportunidades como desarrollador web y expandir mis conocimientos.
+* 🌱 Me encuentro aprendiendo **Angular** y profundizando en mis bases.
+* 💡 Me interesa explorar más sobre **tecnologías Cloud** y el **desarrollo de aplicaciones móviles**.
+* 💬 Pregúntame sobre **desarrollo web (Frontend y Backend)**, maquetación, y flujos de trabajo con **metodologías ágiles (Scrum)**.
+* 📫 Cómo contactarme: **[matii.espinoza.15@gmail.com](mailto:matii.espinoza.15@gmail.com)**.
 
 ---
 
@@ -39,11 +38,13 @@
 <div align="center">
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <br>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 
 </div>
 
@@ -65,9 +66,8 @@
 
 | 🚀 Proyecto | 📝 Descripción | 🔗 Enlaces |
 | :--- | :--- | :--- |
-| **[Nombre Proyecto 1]** | Una breve descripción de lo que hace este proyecto y el problema que resuelve. Construido con [Tecnología 1] y [Tecnología 2]. | [Código](Link al repo) / [Demo](Link al demo) |
-| **[Nombre Proyecto 2]** | Descripción del segundo proyecto. Qué aprendiste o por qué es importante. | [Código](Link al repo) / [Demo](Link al demo) |
-| **[Nombre Proyecto 3]** | Descripción de tu tercer proyecto destacado. | [Código](Link al repo) / [Demo](Link al demo) |
+| **Sistema de gestión de taller mecánico (Pepsico)** | Proyecto de título (Sept. 2025 – Dic. 2025), seleccionado entre los mejores de la generación. Es un sistema integral de gestión de taller y flotas de vehículos con diversos roles para optimizar los tiempos y el flujo de reparaciones. En este proyecto puse a prueba mis habilidades de desarrollo web, UI/UX, conexión a bases de datos y manejo de APIs. | [Código](Link al repo) / [Demo](Link al demo) |
+| **[Nombre Proyecto 2]** | *[Agrega aquí otro proyecto cuando lo tengas listo, o borra esta fila]* | [Código](Link al repo) / [Demo](Link al demo) |
 
 <br>
 <div align="center">
