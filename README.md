@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="baner.jpg" alt="Banner de Matías Espinoza" width="100%" />
+<img src="banner.jpg" alt="Banner de Matías Espinoza" width="100%" />
 
 <p align="center">
   <a href="https://linkedin.com/in/matias-espinoza-barrera-02ab59253" target="_blank">
