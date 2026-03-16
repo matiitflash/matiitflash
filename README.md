@@ -58,5 +58,5 @@
 
 <br>
 <div align="center">
-  <i>¡Gracias por visitar mi perfil! No dudes en contactarme si quieres charlar sobre tecnología o colaborar en algún proyecto.</i>
+  <i>¡Gracias por visitar mi perfil! No dudes en contactarme si quieres hablar sobre tecnología o colaborar en algún proyecto.</i>
 </div>
