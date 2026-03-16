@@ -27,8 +27,8 @@
 * 🎓 Me titulé de **Ingeniería en Informática en Duoc UC (2025)**.
 * 🔭 Actualmente busco oportunidades como desarrollador web y expandir mis conocimientos.
 * 🌱 Me encuentro aprendiendo **Angular** y profundizando en mis bases.
-* 💡 Me interesa explorar más sobre **tecnologías Cloud** y el **desarrollo de aplicaciones móviles**.
-* 💬 Pregúntame sobre **desarrollo web (Frontend y Backend)**, maquetación, y flujos de trabajo con **metodologías ágiles (Scrum)**.
+* 💡 Me interesa explorar más sobre **tecnologías Cloud** y el los diferentes servicios que ofrecen.
+* 💬 Mis grandes intereces son el **desarrollo web (Frontend y Backend)**, maquetación, y flujos de trabajo con **metodologías ágiles (Scrum)**.
 * 📫 Cómo contactarme: **[matii.espinoza.15@gmail.com](mailto:matii.espinoza.15@gmail.com)**.
 
 ---
@@ -54,9 +54,9 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matiitflash&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiitflash&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
 
