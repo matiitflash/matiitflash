@@ -14,7 +14,7 @@
   </a>
 </p>
 
-*Bienvenido a mi perfil de GitHub. Me apasiona construir soluciones creativas, el desarrollo web y de aplicaciones móviles.*
+*Bienvenido a mi perfil de GitHub. Me encanta poner a prueba mi creatividad, el desarrollo web y de aplicaciones móviles.*
 
 </div>
 
@@ -56,5 +56,5 @@
 
 <br>
 <div align="center">
-  <i>¡Gracias por visitar mi perfil! No dudes en contactarme si quieres hablar sobre tecnología o colaborar en algún proyecto.</i>
+  <i>¡Gracias por visitar mi perfil! No dudes en contactarme si quieres hablar o colaborar en algún proyecto.</i>
 </div>
