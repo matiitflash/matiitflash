@@ -14,7 +14,7 @@
   </a>
 </p>
 
-*Bienvenido a mi perfil de GitHub. Me encanta poner a prueba mi creatividad, el desarrollo web y de aplicaciones móviles.*
+*Bienvenido a mi perfil de GitHub. Me encanta poner a prueba mi creatividad y estar desarrollando cosas.*
 
 </div>
 
