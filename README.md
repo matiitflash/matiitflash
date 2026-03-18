@@ -52,7 +52,7 @@
 
 | Proyecto | Descripción | Enlaces |
 | :--- | :--- | :--- |
-| **Sistema de gestión de taller mecánico (Pepsico)** | Proyecto de título (Sept. 2025 – Dic. 2025), seleccionado entre los mejores de la generación. Es un sistema integral de gestión de taller y flotas de vehículos con diversos roles para optimizar los tiempos y el flujo de reparaciones. En este proyecto puse a prueba mis habilidades de desarrollo web, UI/UX, conexión a bases de datos y manejo de APIs. | [Demo](Link al demo) |
+| **Sistema de gestión de taller mecánico (Pepsico)** | Proyecto de título (Sept. 2025 – Dic. 2025), seleccionado entre los mejores de la generación. Es un sistema integral de gestión de taller y flotas de vehículos con diversos roles para optimizar los tiempos y el flujo de reparaciones. En este proyecto puse a prueba mis habilidades de desarrollo web, UI/UX, conexión a bases de datos y manejo de APIs. | [Pronto](Link al demo) |
 
 <br>
 <div align="center">
