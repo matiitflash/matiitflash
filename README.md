@@ -23,10 +23,9 @@
 ## Sobre mí
 
 * 🎓 Me titulé de **Ingeniería en Informática en Duoc UC (2025)**.
-* 🔭 Actualmente busco oportunidades como desarrollador web y expandir mis conocimientos.
-* 🌱 Me encuentro aprendiendo **Angular** y profundizando en mis bases.
+* 🔭 Actualmente busco oportunidades para trabajar en el área de ciencia de datos.
 * ☁️ Me interesa explorar más sobre **tecnologías Cloud** y el los diferentes servicios que ofrecen.
-* 🏁 Mis grandes intereces son el **desarrollo web (Frontend y Backend)**, maquetación, y flujos de trabajo con **metodologías ágiles (Scrum)**.
+* 🏁 Mis grandes intereces son la ciencia de datos, análisis de datos y flujos de trabajo con **metodologías ágiles (Scrum)**.
 * 📫 Cómo contactarme: **[matii.espinoza.15@gmail.com](mailto:matii.espinoza.15@gmail.com)**.
 
 ---
@@ -36,9 +35,9 @@
 <div align="center">
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
